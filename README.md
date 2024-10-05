@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MeherajH osain
+- 👋 Hi, I’m Meheraj Hossain
 - I am study in Green University of Bangladesh , Department of CSE
 - 👀 I’m interested in Cyber Security , Artificial Learning , Machine Learning and Reinforcement Learning
 - 🌱 I’m currently learning ...
